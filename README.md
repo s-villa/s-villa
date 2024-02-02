@@ -3,17 +3,15 @@
 </p>
 <h3 align="center">A passionate student from Colombia</h3>
 
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RkdHhuM2k5c2JjMmJrdGI0ZDBwbTdvbmh2d2ppaTEwa3U2enMzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6n6N2o22gKVeDQDGy8/giphy.gif" width ="25"><b> About me </b>
 
+-  ⬛ I’m currently learning: **Js, Python and Machine learning**
 
-##
+-  🟦 I’m currently study: **control engineer in @UNAL**
 
-- - ⬛ I’m currently learning: **Js, Python and Machine learning**
+-  🟪 If you wanna reach me: **s.jojoavilla@gmail.com**
 
-- - 🟦 I’m currently study: **control engineer in @UNAL**
-
-- - 🟪 If you wanna reach me: **s.jojoavilla@gmail.com**
-
-- - 🟧 Fun fact: **when I was child a dog almost killed me :/**
+-  🟧 Fun fact: **when I was child a dog almost killed me :/**
 
 
 
