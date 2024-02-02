@@ -15,7 +15,7 @@
 
 - - 🟧 Fun fact: **when I was child a dog almost killed me :/**
 
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width ="30"><b> Connect with me</b>
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFlNGI3bHE1dHVnaGxwZjZqMGVvNXBlYXN2cnNtb3FyMzZvNzZsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZC3CkcI03G2bWG1P76/giphy.gif" width ="30"><b> Connect with me </b>
 <p align="left">
 <a href="https://twitter.com/villa_jojoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="villa_jojoa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sjvilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sjvilla" height="30" width="40" /></a>
@@ -26,7 +26,7 @@
 
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills and Tools</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills and Tools </b>
 
 
 <p align="center">
@@ -35,7 +35,7 @@
   </a>
 </p>
 
-## 👩‍💻 My Stats
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width ="30"><b> My Stats </b>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-villa&show_icons=true&locale=en&layout=compact" alt="s-villa" /></p>
 
