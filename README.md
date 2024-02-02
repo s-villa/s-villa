@@ -44,7 +44,7 @@
  </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-villa&theme=tokyonight_duo" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s-villa&show_icons=true&locale=en&theme=tokyonight_duo" />
 </p>
 
 
