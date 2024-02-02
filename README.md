@@ -15,7 +15,6 @@
 
 - - 🟧 Fun fact: **when I was child a dog almost killed me :/**
  
-<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +25,6 @@
 <a href="https://www.leetcode.com/svilla03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="svilla03" height="30" width="40" /></a>
 </p>
 
-<hr>
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills and Tools</b>
