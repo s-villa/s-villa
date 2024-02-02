@@ -7,6 +7,9 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RkdHhuM2k5c2JjMmJrdGI0ZDBwbTdvbmh2d2ppaTEwa3U2enMzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6n6N2o22gKVeDQDGy8/giphy.gif" height="45" width ="45"><b> About me </b>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=16&duration=1000&pause=20000&color=2B717E&multiline=true&random=false&width=449&height=24&lines=%22I'm+a+student+graduate+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93%2C+venturing+into+programming%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%22)A passionate beginner programmer on a journey of continuous learning, currently immersing myself in the world of Java and Web Development. 💻 Excited to contribute to innovative projects, I'm mastering version control with Git and GitHub. Open to collaborations and always up for a coding challenge! 🚀
+
+
 -  ⬛ I’m currently learning: **Js, Python and Machine learning**
 
 -  🟦 I’m currently study: **control engineer in @UNAL**
