@@ -37,12 +37,16 @@
 
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width ="30"><b> My Stats </b>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-villa&theme=tokyonight_duo&hide_border=true" alt="s-villa" />
+<p aling="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-villa&theme=tokyonight_duo&hide_border=true" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-villa&show_icons=true&locale=en" alt="s-villa" /></p>
+<p aling="center">
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-villa&show_icons=true&locale=en" alt="s-villa" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-villa&" alt="s-villa" /></p>
+<p aling="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-villa&" alt="s-villa" />
+</p>
 
 
