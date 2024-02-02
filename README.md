@@ -14,6 +14,8 @@
 - - 🟪 If you wanna reach me: **s.jojoavilla@gmail.com**
 
 - - 🟧 Fun fact: **when I was child a dog almost killed me :/**
+ 
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
