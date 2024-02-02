@@ -15,7 +15,7 @@
 
 - - 🟧 Fun fact: **when I was child a dog almost killed me :/**
 
-## <img src="https://giphy.com/embed/aYnHrx1v0bMjTluXuk" width ="25"><b> Connect with me</b>
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNmNDg0d2ExZ2dxc255b2ZsOWlyNThmamZwMXdmbDMwb2VpOWY5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aYnHrx1v0bMjTluXuk/giphy.gif" width ="25"><b> Connect with me</b>
 
 ## 📨 Connect with me:
 <p align="left">
@@ -29,6 +29,7 @@
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills and Tools</b>
+
 
 <p align="center">
   <a href="https://skillicons.dev">
