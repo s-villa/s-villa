@@ -3,6 +3,8 @@
 </p>
 <h3 align="center">A passionate student from Colombia</h3>
 
+
+
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RkdHhuM2k5c2JjMmJrdGI0ZDBwbTdvbmh2d2ppaTEwa3U2enMzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6n6N2o22gKVeDQDGy8/giphy.gif" height="45" width ="45"><b> About me </b>
 
 -  ⬛ I’m currently learning: **Js, Python and Machine learning**
@@ -26,7 +28,7 @@
 
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills and Tools </b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="45" width ="45"><b> Skills and Tools </b>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,7 +38,7 @@
 
 
 
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width ="30"><b> My Stats </b>
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" height="45" width ="45"><b> My Stats </b>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s-villa&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=20&hide_border=true" />
