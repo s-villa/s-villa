@@ -14,7 +14,9 @@
 - - 🟪 If you wanna reach me: **s.jojoavilla@gmail.com**
 
 - - 🟧 Fun fact: **when I was child a dog almost killed me :/**
- 
+
+## <img src="https://giphy.com/embed/aYnHrx1v0bMjTluXuk" width ="25"><b> Connect with me</b>
+
 ## 📨 Connect with me:
 <p align="left">
 <a href="https://twitter.com/villa_jojoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="villa_jojoa" height="30" width="40" /></a>
