@@ -54,5 +54,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-villa&theme=tokyonight_duo&hide_border=true" />
  </p>
 
-
+<table align="center">
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/s-villa/count.svg" />
+    </td>
+  </tr>
+</table>
 
