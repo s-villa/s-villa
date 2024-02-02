@@ -7,7 +7,7 @@
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3RkdHhuM2k5c2JjMmJrdGI0ZDBwbTdvbmh2d2ppaTEwa3U2enMzZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6n6N2o22gKVeDQDGy8/giphy.gif" height="45" width ="45"><b> About me </b>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=16&duration=1000&pause=8000&color=b7d6e2&multiline=true&random=false&width=715&height=24&lines=%22There+is+always+some+madness+in+love.+But+there+is+also+always+some+reason+in+madness+📜") Since I was little I began to like the world of computing, I started programming a Pacman at the age of 13, at 16 I worked in a company as a developer. Now i have 18 and im currently a student at @UNAL
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&weight=700&size=16&duration=1000&pause=7000&color=b7d6e2&multiline=true&random=false&width=715&height=24&lines=%22There+is+always+some+madness+in+love.+But+there+is+also+always+some+reason+in+madness+📜%22) Since I was little I began to like the world of computing, I started programming a Pacman at the age of 13, at 16 I worked in a company as a developer. Now i have 18 and im currently a student at @UNAL
 
 -  ⬛ I’m currently learning: **Js, Python and Machine learning**
 
