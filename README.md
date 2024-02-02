@@ -40,11 +40,12 @@
  </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=s-villa&show_icons=true&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=20&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-villa&theme=tokyonight_duo&hide_border=true" />
  </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-villa&show_icons=true&hide_border=true&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=20&hide_border=true" />
-</p>
 
 
