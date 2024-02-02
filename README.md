@@ -36,7 +36,7 @@
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width ="30"><b> My Stats </b>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s-villa&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=20" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s-villa&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=20&hide_border=true"" />
  </p>
 
 <p align="center">
@@ -44,7 +44,7 @@
  </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-villa&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=s-villa&show_icons=true&hide_border=true&theme=tokyonigh" />
 </p>
 
 
