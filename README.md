@@ -25,7 +25,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills and Tools </b>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cs,mysql,js,html,css,bootstrap,tensorflow,anaconda,react,django,dotnet,git,github,matlab,postman,arduino,visualstudio,vscode,unity,godot,gamemakerstudio,bash,linux&perline=12" />
   </a>
@@ -35,8 +35,8 @@
 
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width ="30"><b> My Stats </b>
 
-<p aling="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-villa&layout=compact&theme=tokyonight&text_color=C384FF&langs_count=20" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s-villa & layout=compact & theme=tokyonight & text_color=C384FF & langs_count=20" />
 </p>
 
 <p aling="center">
