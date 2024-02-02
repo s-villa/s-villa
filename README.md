@@ -40,11 +40,7 @@
 </p>
 
 <p aling="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-villa&show_icons=true&locale=en&theme=tokyonight_duo&hide_border=true" alt="s-villa" />
-</p>
-
-<p aling="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-villa&" alt="s-villa" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-villa&theme=tokyonight_duo&hide_border=true" alt="s-villa" />
 </p>
 
 
