@@ -4,7 +4,11 @@
 
 
 
-## <h3 align="center">A passionate student from Colombia</h3>
+
+<h3 align="center">A passionate student from Colombia</h3>
+
+
+## about me
 
 - - ⬛ I’m currently learning: **Js, Python and Machine learning**
 
