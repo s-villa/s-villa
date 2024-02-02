@@ -15,7 +15,7 @@
 
 - - 🟧 Fun fact: **when I was child a dog almost killed me :/**
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFlNGI3bHE1dHVnaGxwZjZqMGVvNXBlYXN2cnNtb3FyMzZvNzZsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZC3CkcI03G2bWG1P76/giphy.gif" width ="30"><b> Connect with me </b>
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajQ2a2U1ZjZhNmRxeXlxYnA1Y3MwYmJ3Mjl0bGhlMTZtdmtyazJ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l44Qt7JwxooJyXVTy/giphy.gif" width ="30"><b> Connect with me </b>
 <p align="left">
 <a href="https://twitter.com/villa_jojoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="villa_jojoa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sjvilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sjvilla" height="30" width="40" /></a>
