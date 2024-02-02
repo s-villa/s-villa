@@ -13,12 +13,17 @@
 
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRhcW42MmozMGpnYTlka2JsemVodm8zeG9zaGEwNmowbTZuYnRrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/H4yjK0frh27wpSdyHf/giphy.gif" width ="25"><b> Connect with me </b>
-<p align="left">
-<a href="https://twitter.com/villa_jojoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="villa_jojoa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sjvilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sjvilla" height="30" width="40" /></a>
-<a href="https://instagram.com/s.villa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.villa_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/s_jojoavilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s_jojoavilla" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/svilla03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="svilla03" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://twitter.com/villa_jojoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="villa_jojoa" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/sjvilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"       alt="sjvilla" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/s.villa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.villa_" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/s_jojoavilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s_jojoavilla" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/svilla03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="svilla03" height="30" width="40" />
+  </a>
 </p>
 
 
