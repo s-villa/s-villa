@@ -15,7 +15,7 @@
 
 - - 🟧 Fun fact: **when I was child a dog almost killed me :/**
 
-## <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNmNDg0d2ExZ2dxc255b2ZsOWlyNThmamZwMXdmbDMwb2VpOWY5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aYnHrx1v0bMjTluXuk/giphy.gif](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)" width ="25"><b> Connect with me</b>
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmNmNDg0d2ExZ2dxc255b2ZsOWlyNThmamZwMXdmbDMwb2VpOWY5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aYnHrx1v0bMjTluXuk/giphy.gif](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width ="25"><b> Connect with me</b>
 <p align="left">
 <a href="https://twitter.com/villa_jojoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="villa_jojoa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sjvilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sjvilla" height="30" width="40" /></a>
